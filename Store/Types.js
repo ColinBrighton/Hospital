@@ -1,0 +1,10 @@
+export const UPDATE_SIGNUP = 'update_signup';
+export const UPDATE_LOGIN = 'update_login';
+export const SELECTED_SYMPTOMS = 'selected_symptoms';
+export const CONFIRM_APPOINTMENT = 'confirm_appointment';
+export const PATIENT_DETAILS = 'patient_details';
+export const APPOINTMENT_CONDITION = 'appointment_condition';
+export const DOCTOR_CONFIRMATION = 'doctor_confirmation'
+export const DOCTOR_CANCELLATION = 'doctor_cancellation'
+export const REASON_FOR_CANCEL= 'reason_for_cancel'
+export const CHECK_CONFIRM_APPOINTMENT='check_confirm_appointment'
